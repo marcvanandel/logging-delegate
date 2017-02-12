@@ -5,10 +5,10 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * TODO JavaDoc
+ * Tests {@link Slf4jLoggingDelegate}.
  *
- * @author marc
- * @since 0.1 on 11/02/2017
+ * @author marc-va
+ * @since 1.0 on 11/02/2017
  */
 public class Slf4jLoggingDelegateTest {
 

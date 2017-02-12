@@ -10,7 +10,7 @@
         </encoder>
     </appender>
 
-    <logger name="nl.marcvanandel" level="INFO" additivity="false">
+    <logger name="nl.marcvanandel" level="DEBUG" additivity="false">
         <appender-ref ref="STDOUT" />
     </logger>
 
